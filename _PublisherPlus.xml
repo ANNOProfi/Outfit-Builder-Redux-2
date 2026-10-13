@@ -3,6 +3,8 @@
   <Excluded>
     <exclude>.git</exclude>
     <exclude>.vscode</exclude>
+    <exclude>1.7\Assemblies\OBR2.deps.json</exclude>
+    <exclude>1.7\Assemblies\ref</exclude>
     <exclude>OBR2.sln</exclude>
     <exclude>Source</exclude>
   </Excluded>
